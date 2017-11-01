@@ -107,7 +107,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Deepl</string>
+	<string>Translate</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -547,6 +547,6 @@ echo $t-&gt;getTranslations($in);</string>
 		</dict>
 	</dict>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/Xiphe/alfred-translate</string>
 </dict>
 </plist>

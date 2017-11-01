@@ -1,7 +1,7 @@
-translation workflow alfred
-===========================
+alfred-translate
+================
 
-Using [deepL](https://www.deepl.com/translator)
+translation workflow for Alfred using [DeepL](https://www.deepl.com/translator).
 
 
 ## Supported languages
@@ -17,7 +17,7 @@ Using [deepL](https://www.deepl.com/translator)
 
 ## How
 
- 1. Download the alfred workflow and install it in alfred 
+ 1. Download the latest release `Translate.alfredworkflow` from [the releases page](https://github.com/Xiphe/alfred-translate/releases) and install it in alfred 
  2. Type one or two of the supported language abbreviations followed by the words you want to translate
  3. Choose a result and press enter to copy it to your clipboard
 
